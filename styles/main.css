@@ -127,7 +127,7 @@
 
   .subscribe i {
     padding: 5%;
-    padding-top: 0px;
+    padding-top: 10px;
   }
 
   .subscribe input {
