@@ -336,7 +336,6 @@
 
   .sec-menu {
     display: flex;
-
     padding: 10px;
     color: #257ca1;
     border-right: 1px solid #989898f7;
@@ -359,8 +358,14 @@
     display: none;
   }
 
-  #Secondary-menu a:hover {
+  /* #Secondary-menu a:hover {
     background-color: #d9efec;
+  } */
+
+  .sec-menu:hover{
+    background-color: #d9efec;
+
+
   }
 
   .title2 {
