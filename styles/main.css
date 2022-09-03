@@ -347,18 +347,14 @@
 
   #Secondary-menu a {
     color: #257ca1;
-    font-size: 16px;
+    font-size: 12px;
     text-decoration: none;
     font-family: "Montserrat", sans-serif;
   }
 
   #Secondary-menu p {
     display: none;
-  }
-
-  /* #Secondary-menu a:hover {
-    background-color: #d9efec;
-  } */
+  }S
 
   .sec-menu:hover {
     background-color: #d9efec;
@@ -414,6 +410,10 @@
 
   .menu {
     flex-direction: row;
+  }
+
+  #Secondary-menu a {
+    font-size: 14px;
   }
 
   #social {
@@ -522,7 +522,7 @@
   }
 
   .sec-menu p {
-    font-size: 12px;
+    font-size: 10px;
     font-family: "Montserrat", sans-serif;
   }
 
@@ -532,6 +532,10 @@
 
   .subscribe {
     width: 90%;
+  }
+
+  #Secondary-menu a {
+    font-size: 16px;
   }
 
   .subscribe p,
