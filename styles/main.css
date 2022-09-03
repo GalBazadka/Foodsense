@@ -594,4 +594,10 @@
   #mainPicture{
     margin: 0;
   }
+
+  .subscribe i {
+    padding: 5%;
+    padding-top: 0px;
+    font-size: 30px;
+  }
 }
