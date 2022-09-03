@@ -351,6 +351,7 @@
   #Secondary-menu a {
     color: var(--blue);
     font-size: 12px;
+    text-decoration: none;
   }
 
   #Secondary-menu p {
