@@ -518,11 +518,12 @@
     padding: 2%;
     flex-direction: column;
     height: 30px;
-    line-height: 22px;
+    line-height: 10px;
   }
 
   .sec-menu p {
     font-size: 12px;
+    font-family: "Montserrat", sans-serif;
   }
 
   .mainPicture {
