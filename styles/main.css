@@ -30,7 +30,7 @@
   }
 
   .nav-bar a {
-    color: var(--blue);
+    color: #257ca1;
     text-align: center;
     padding: 8px 5px;
     text-decoration: none;
@@ -167,7 +167,7 @@
   article h1 {
     margin-top: 5%;
     font-size: 14px;
-    color: var(--blue);
+    color: #257ca1;
     font-family: "Montserrat", sans-serif;
   }
 
@@ -181,11 +181,11 @@
   article time {
     margin-top: 15px;
     font-size: 10px;
-    color: var(--gray);
+    color: #989898f7;
   }
 
   article a {
-    color: var(--blue);
+    color: #257ca1;
     text-decoration: none;
   }
 
@@ -338,7 +338,7 @@
     display: flex;
 
     padding: 10px;
-    color: var(--blue);
+    color: #257ca1;
     border-right: 1px solid var(--gray);
     flex-basis: 100px;
     flex-grow: 1;
@@ -349,7 +349,7 @@
   }
 
   #Secondary-menu a {
-    color: var(--blue);
+    color: #257ca1;
     font-size: 12px;
     text-decoration: none;
   }
@@ -446,7 +446,7 @@
     height: 30px;
     width: 140px;
     align-items: center;
-    color: var(--blue);
+    color: #257ca1;
   }
 
   #social button i {
