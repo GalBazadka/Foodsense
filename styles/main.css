@@ -431,6 +431,7 @@
   #social h2 {
     border-bottom: 1px gray dashed;
     padding-bottom: 10px;
+    /* font-family: "Montserrat", sans-serif; */
   }
 
   #social button {
@@ -524,6 +525,7 @@
 
   #Secondary-menu a {
     font-size: 16px;
+    text-decoration: none;
   }
 
   .mainPicture {
