@@ -195,7 +195,6 @@
 }
 
 @media only screen and (min-width: 480px) {
-
   #top {
     display: flex;
     flex-direction: row;
@@ -278,11 +277,10 @@
 }
 
 @media only screen and (min-width: 768px) {
-
-  #top{
+  #top {
     justify-content: space-around;
   }
-  
+
   .nav-bar {
     padding: 0%;
     margin-right: 10px;
@@ -362,10 +360,8 @@
     background-color: #d9efec;
   } */
 
-  .sec-menu:hover{
+  .sec-menu:hover {
     background-color: #d9efec;
-
-
   }
 
   .title2 {
@@ -477,7 +473,6 @@
     margin-right: auto;
     padding: 7px 15px;
     box-sizing: border-box;
-
   }
 
   .title3 {
@@ -496,7 +491,7 @@
     right: 7.5%;
     background-color: black;
     color: white;
-    
+
     font-size: 10px;
   }
 }
@@ -559,10 +554,9 @@
     margin-right: 10px;
   }
 
-  .subscribe input{
+  .subscribe input {
     width: 200px;
   }
-
 
   #articles {
     margin-top: -50px;
@@ -601,7 +595,7 @@
     width: 400px;
   }
 
-  #mainPicture{
+  #mainPicture {
     margin: 0;
   }
 
