@@ -554,6 +554,11 @@
     margin-right: 10px;
   }
 
+  .subscribe input{
+    width: 200px;
+  }
+
+
   #articles {
     margin-top: -50px;
   }
