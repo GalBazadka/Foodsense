@@ -352,6 +352,7 @@
     color: #257ca1;
     font-size: 12px;
     text-decoration: none;
+    font-family: "Montserrat", sans-serif;
   }
 
   #Secondary-menu p {
@@ -517,7 +518,7 @@
     padding: 2%;
     flex-direction: column;
     height: 30px;
-    line-height: 15px;
+    line-height: 22px;
   }
 
   .sec-menu p {
